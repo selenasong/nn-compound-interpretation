@@ -71,9 +71,6 @@ python data_converter.py --mode split --input dataset.json --output dev.json --o
 - [`minicons`](https://github.com/kanishkamisra/minicons) — surprisal score extraction
 - HuggingFace `transformers` — model loading and text generation pipelines
 - Google Colab — compute environment
-## Results
-
-Detailed outputs for each model and evaluation method are available in the `/results` directory.
 
 ## References
 
